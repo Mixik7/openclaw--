@@ -10,8 +10,7 @@
     "auth": {
       "mode": "token",
       "token": "26971d5d89c94d544fb43409257ddd2c1a09d369efdab4b3a0e93a8b35d286eb"
-    },
-    "trustedProxies": ["100.64.0.0/10", "172.16.0.0/12", "10.0.0.0/8", "127.0.0.1"]
+    }
   },
   "agents": {
     "defaults": {
