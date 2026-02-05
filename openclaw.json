@@ -8,11 +8,10 @@
       "allowInsecureAuth": true
     },
     "auth": {
-      "mode": "token",
-      "token": "26971d5d89c94d544fb43409257ddd2c1a09d369efdab4b3a0e93a8b35d286eb"
+      "mode": "password",
+      "password": "openclaw2026"
     },
-    "trustedProxies": ["0.0.0.0/0"],
-    "allowedOrigins": ["*"]
+    "trustedProxies": ["0.0.0.0/0"]
   },
   "agents": {
     "defaults": {
