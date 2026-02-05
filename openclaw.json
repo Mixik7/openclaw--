@@ -13,6 +13,14 @@
     },
     "trustedProxies": ["0.0.0.0/0"]
   },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "pairing": {
+        "autoApprove": true
+      }
+    }
+  },
   "agents": {
     "defaults": {
       "workspace": "/home/node/.openclaw/workspace"
