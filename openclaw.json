@@ -15,10 +15,7 @@
   },
   "channels": {
     "telegram": {
-      "enabled": true,
-      "pairing": {
-        "autoApprove": true
-      }
+      "enabled": true
     }
   },
   "agents": {
