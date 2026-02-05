@@ -13,9 +13,15 @@
     },
     "trustedProxies": ["100.64.0.0/10", "172.16.0.0/12", "10.0.0.0/8", "127.0.0.1"]
   },
+  "channels": {
+    "telegram": {
+      "allowlist": ["5259939296"]
+    }
+  },
   "agents": {
     "defaults": {
-      "workspace": "/home/node/.openclaw/workspace"
+      "workspace": "/home/node/.openclaw/workspace",
+      "maxConcurrent": 1
     }
   }
 }
