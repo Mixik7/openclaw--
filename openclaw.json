@@ -16,9 +16,7 @@
   "channels": {
     "telegram": {
       "enabled": true,
-      "pairing": {
-        "autoApprove": true
-      }
+      "allowlist": ["5259939296"]
     }
   },
   "agents": {
